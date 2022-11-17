@@ -1,20 +1,14 @@
 {
-  ('name');
-  'Synology NAS', 'type';
-  1, 'channel_id';
-  '1040261124924379146', 'token';
-  'MTA0MDI1NjU0MjA2NDI0Njg1NA.Gz0CZv.ninYRwmsWEDglCqCkW2vSyIRZOb22JbcBT8Rv8',
-    'avatar';
-  null, 'guild_id';
-  '835234121621307482', 'id';
-  '1040256542064246854', 'application_id';
-  null, 'user';
-  {
-    ('username');
-    'Synology NAS', 'discriminator';
-    '1707', 'id';
-    '1040256542064246854', 'avatar';
-    'b33065c0e62095c9cd6ff41622e4294c', 'public_flags';
-    131328;
-  }
+    "Discord": {
+        "needssl": false,
+        "port": 8090,
+        "prefix": "Det oppsto en ny systemhendelse på %HOSTNAME% %DATE% %TIME%.,
+        "req_header": "",
+        "req_method": "post",
+        "req_param": "{\"username\":\"Synology\", \"avatar_url\": \"https://play-lh.googleusercontent.com/HjbYWbXJ-6e6Cia-mBbHDSdontW1yE6MHMaXqlHW80CQegDOEPQ1HGACxvEpnqCUHgo\", \"embeds\": [{\"description\": \"@@TEXT@@\", \"title\": \"@@PREFIX@@\"}]}",
+        "sepchar": " ",
+        "template": "https://discord.com/api/webhooks/1042804767602266114/l1zJku_BiotrvV6c1Ogdenx8n2zt4nPM6ujPKxWaHEaWbnahHKmVfZK9_QfQOZEfVn4A",
+        "type": "custom",
+        "url": "https://discord.com/api/webhooks/1042804767602266114/l1zJku_BiotrvV6c1Ogdenx8n2zt4nPM6ujPKxWaHEaWbnahHKmVfZK9_QfQOZEfVn4A"
+    }
 }
